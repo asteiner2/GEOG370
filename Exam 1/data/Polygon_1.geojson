@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Polygon_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::26911" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Airport": "Airport" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 666068.144511469407007, 3995245.214550772216171 ], [ 666938.521469013299793, 3995253.103163680527359 ], [ 666977.964533554506488, 3994295.951464145909995 ], [ 666068.144511469407007, 3994314.35822759848088 ], [ 666068.144511469407007, 3995245.214550772216171 ] ] ] ] } }
+]
+}
