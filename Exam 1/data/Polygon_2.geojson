@@ -1,8 +1,8 @@
 {
 "type": "FeatureCollection",
 "name": "Polygon_2",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::26911" } },
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": null, "subdivisio": "New subdivision" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 662786.481541636167094, 3996433.765562282409519 ], [ 663680.524337904877029, 3996386.433884833008051 ], [ 663691.042488449136727, 3995655.422422001603991 ], [ 662786.481541636167094, 3995729.049475811887532 ], [ 662786.481541636167094, 3996433.765562282409519 ] ] ] ] } }
+{ "type": "Feature", "properties": { "id": null, "subdivisio": "New subdivision" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -115.191654032829291, 36.098917367524386 ], [ -115.181736699303983, 36.098340574898806 ], [ -115.181771709069977, 36.091751476326301 ], [ -115.191799567971245, 36.092566961366913 ], [ -115.191654032829291, 36.098917367524386 ] ] ] ] } }
 ]
 }
